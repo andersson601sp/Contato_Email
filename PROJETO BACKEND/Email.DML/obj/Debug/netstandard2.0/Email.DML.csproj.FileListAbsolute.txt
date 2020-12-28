@@ -1,0 +1,8 @@
+C:\Users\Samuel\source\repos\Email.DML\bin\Debug\netstandard2.0\Email.DML.deps.json
+C:\Users\Samuel\source\repos\Email.DML\bin\Debug\netstandard2.0\Email.DML.dll
+C:\Users\Samuel\source\repos\Email.DML\bin\Debug\netstandard2.0\Email.DML.pdb
+C:\Users\Samuel\source\repos\Email.DML\obj\Debug\netstandard2.0\Email.DML.AssemblyInfoInputs.cache
+C:\Users\Samuel\source\repos\Email.DML\obj\Debug\netstandard2.0\Email.DML.AssemblyInfo.cs
+C:\Users\Samuel\source\repos\Email.DML\obj\Debug\netstandard2.0\Email.DML.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\source\repos\Email.DML\obj\Debug\netstandard2.0\Email.DML.dll
+C:\Users\Samuel\source\repos\Email.DML\obj\Debug\netstandard2.0\Email.DML.pdb
